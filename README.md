@@ -70,8 +70,4 @@ Python, TensorFlow/Keras, Keras Tuner, scikit-learn (SVM), NumPy
 
 ## Riferimenti
 
-- Howard et al., *MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications*, 2017
-- Sandler et al., *MobileNetV2: Inverted Residuals and Linear Bottlenecks*, 2019
-- He et al., *Identity Mappings in Deep Residual Networks*, 2016
-- Szegedy et al., *Rethinking the Inception Architecture for Computer Vision*, 2015
 - Wah et al., *The Caltech-UCSD Birds-200-2011 Dataset*, 2011
